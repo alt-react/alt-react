@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Eduardo! <a href="https://www.linkedin.com/in/altreact/">Part-Time Cybersecurity Student</a>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Java GUI Game</b>
+  - [Tic Tac Toe](https://github.com/altreact/Tic-Tac-Toe)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/altreact
 
 <!--
 **alt-react/alt-react** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
