@@ -10,6 +10,7 @@
 
 Windows
   
+- Microsoft Active Directory Home Lab - in VirtualBox (coming soon)
 - Microsoft Windows Defender and Firewall (coming soon)
 
 <h2>📃 Certifications:</h2>
