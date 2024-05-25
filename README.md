@@ -2,14 +2,28 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Java GUI Game</b>
-  - [Tic Tac Toe](https://github.com/altreact/Tic-Tac-Toe)
+<h3>💻 Programming</h3>
+
+  Java (FX)
+  
+- [Tic Tac Toe](https://github.com/altreact/Tic-Tac-Toe)
+ 
+Windows
+  
+- Microsoft Windows Defender and Firewall (coming soon)
 
 <h2>📃 Certifications:</h2>
 
 [![CIW JavaScript Specialist](https://img.shields.io/badge/-CIW%20JavaScript%20Specialist-blue?style=flat-square&logo=javascript&logoColor=white)](https://i.imgur.com/9HrLXdB.jpg)
 [![Cisco IT Essentials](https://img.shields.io/badge/-Cisco%20IT%20Essentials-blue?style=flat-square&logo=cisco&logoColor=white)](https://i.imgur.com/7IujRqO.jpg)
 [![Google Cyber Security](https://img.shields.io/badge/-Google%20Cyber%20Security-blue?style=flat-square&logo=google&logoColor=white)](https://i.imgur.com/4N46UnW.jpg)
+
+<h2>✔️ Completed Courses:</h2>
+
+Microsoft
+
+  [![Active Directory Domain Services](https://img.shields.io/badge/-Active%20Directory%20Domain%20Services-blue?style=flat-square&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/altreact)
+
 
 <h2> 🤳 Connect with me:</h2>
 
