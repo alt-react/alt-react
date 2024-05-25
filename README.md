@@ -5,6 +5,8 @@
 - <b>Java GUI Game</b>
   - [Tic Tac Toe](https://github.com/altreact/Tic-Tac-Toe)
 
+<h2>📃 Certifications:</h2>
+  - [![Google Cyber Security](https://img.shields.io/badge/-Google%20Cyber%20Security-blue?style=flat-square&logo=google&logoColor=white)](https://i.imgur.com/4N46UnW.jpg)
 
 <h2> 🤳 Connect with me:</h2>
 
