@@ -5,9 +5,9 @@
 <h3>💻 Programming</h3>
 
   Java (FX)
-  
-- [Tic Tac Toe](https://github.com/altreact/Tic-Tac-Toe)
- 
+
+[![Tic Tac Toe](https://img.shields.io/badge/Tic%20Tac%20Toe-blue?style=flat-square&logo=gamepad&logoColor=white)](https://www.github.com/altreact/Tic-Tac-Toe)
+
 Windows
   
 - Microsoft Windows Defender and Firewall (coming soon)
