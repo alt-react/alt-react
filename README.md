@@ -24,6 +24,11 @@ Microsoft
 
   [![Active Directory Domain Services](https://img.shields.io/badge/-Active%20Directory%20Domain%20Services-blue?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/EduardoDominguez-9744/JCN325DT?sharingId=CFD2A8C091B305E1)
 
+Programming
+
+  [![LaunchCode CS50x](https://img.shields.io/badge/LaunchCode%20CS50x-blue?style=flat-square&logo=code&logoColor=white)](https://i.imgur.com/a/Yym3RgH)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
