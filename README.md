@@ -7,6 +7,8 @@
 
 <h2>📃 Certifications:</h2>
 
+[![CIW JavaScript Specialist](https://img.shields.io/badge/-CIW%20JavaScript%20Specialist-blue?style=flat-square&logo=javascript&logoColor=white)](https://i.imgur.com/9HrLXdB.jpg)
+[![Cisco IT Essentials](https://img.shields.io/badge/-Cisco%20IT%20Essentials-blue?style=flat-square&logo=cisco&logoColor=white)](https://i.imgur.com/7IujRqO.jpg)
 [![Google Cyber Security](https://img.shields.io/badge/-Google%20Cyber%20Security-blue?style=flat-square&logo=google&logoColor=white)](https://www.i.imgur.com/4N46UnW.jpg)
 
 <h2> 🤳 Connect with me:</h2>
