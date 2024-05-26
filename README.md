@@ -9,9 +9,8 @@
 [![Tic Tac Toe](https://img.shields.io/badge/Tic%20Tac%20Toe-blue?style=flat-square&logo=gamepad&logoColor=white)](https://www.github.com/altreact/Tic-Tac-Toe)
 
 Windows
-  
-- Microsoft Active Directory Home Lab - in VirtualBox (coming soon)
-- Microsoft Windows Defender and Firewall (coming soon)
+
+[![Active Directory Home Lab](https://img.shields.io/badge/-Active%20Directory%20Home%20Lab-blue?style=flat-square&logo=windows&logoColor=white)](https://github.com/alt-react/Active-Directory-Home-Lab) (work in progress)
 
 <h2>📃 Certifications:</h2>
 
