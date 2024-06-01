@@ -1,4 +1,6 @@
-<h1>Hi, I'm Eduardo! I'm a part-time Cyber Security student looking to impact the space while growing in knowledge and experience.
+<h1>Hi, I'm Eduardo! 
+  
+  I'm a part-time Cyber Security student looking to impact the space while growing in knowledge and experience.
 
 <h2>👨‍💻 Projects:</h2>
 
