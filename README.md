@@ -10,7 +10,7 @@
 
 Windows
 
-[![Active Directory Home Lab](https://img.shields.io/badge/-Active%20Directory%20Home%20Lab-blue?style=flat-square&logo=windows&logoColor=white)](https://github.com/alt-react/Active-Directory-Home-Lab) (work in progress)
+[![Active Directory Home Lab](https://img.shields.io/badge/-Active%20Directory%20Home%20Lab-blue?style=flat-square&logo=windows&logoColor=white)](https://github.com/alt-react/Active-Directory-Home-Lab)
 
 <h2>📃 Certifications:</h2>
 
